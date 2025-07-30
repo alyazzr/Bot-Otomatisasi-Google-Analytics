@@ -48,6 +48,14 @@ File `.CSV` yang dihasilkan dirancang agar kompatibel dan mudah dihubungkan seba
 -   **Library**: Pandas (untuk mengolah data dan membuat CSV) 
 -   **Platform & Tools**: Visual Studio Code, Git, Google Cloud Console, Looker Studio.
 
+
+### Konfigurasi Kredensial API
+
+Untuk menghubungkan bot dengan Google Analytics, Anda memerlukan beberapa kredensial API. Silakan ikuti panduan lengkapnya di file berikut:
+
+➡️ **[Buka Panduan Konfigurasi API (MANUAL.md)](MANUAL.md)**
+
+
 ## 🚀 Instalasi dan Pengaturan
 
 1.  **Clone Repository**
