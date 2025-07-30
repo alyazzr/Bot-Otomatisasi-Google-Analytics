@@ -1,0 +1,6 @@
+NAMA_SITUS: Website adsConnect
+MEASUREMENT_ID: G-5CMMJ1GEWT
+API_SECRET: O6njgPIVQWKLB8xIzsk0rQ
+PROPERTY_ID: 495052424
+WEBSITE_URL: https://www.adsconnect.my.id/
+TARGET_PATHS: /,/Profil,/Berita,/Galeri
